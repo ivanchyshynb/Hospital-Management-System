@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../img/blur-hospital.jpg");
+}
+
+.blue-navbar {
+    background: #32609e !important;
+}
+
+.caption {
+    height: 500px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.login-form {
+    width: 350px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.login-form form {
+    color: #7a7a7a;
+    padding: 30px;
+    background: #fff;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.login-form h2 {
+    margin: 10px 0 25px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.form-control {
+    border-radius: 2px;
+    background: #f2f2f2;
+    border: transparent;
+}
+
+.table-wrapper {
+    background: #fff;
+    padding: 20px 25px;
+}
+
+.table-responsive {
+    margin-top: 40px;
+    box-shadow: 3px 4px 7px 0 rgba(0, 0, 0, 0.1);
+}
+
+.table-title {
+    color: #fff;
+    background: #435d7d;
+    padding: 15px 25px;
+    margin: -20px -25px 10px;
+}
+
+.table-title h2 {
+    font-size: 24px;
+    margin: 5px 0 0;
+}
+
+.search-table {
+    position: relative;
+    float: right;
+}
+
+.search-table i {
+    position: absolute;
+    font-size: 15px;
+    top: 9px;
+    left: 11px;
+    color: #a0a5b1;
+}
+
+.search-table input {
+    height: 34px;
+    border-radius: 20px;
+    padding-left: 35px;
+    background: #fff;
+}
+
+.p-t-7 {
+    padding-top: 7px;
+}
+
+.wrapper {
+    max-width: 680px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+.form-body {
+    padding: 57px 65px;
+    background: #fff;
+}
+
+.form-title {
+    color: #fff;
+    background: #435d7d;
+    padding: 15px 25px;
+    margin: -57px -65px 10px;
+}
+
+.form-title h2 {
+    margin: 5px 0 0;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    line-height: 60px;
+    background-color: #32609e;
+}
